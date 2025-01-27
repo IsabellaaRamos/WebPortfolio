@@ -27,6 +27,8 @@ import {
   portfolio,
   projeto,
   myst,
+  Ancient,
+  Antolin,
 } from "../assets";
 
 
@@ -175,7 +177,7 @@ const experiences = [
   {
     title: "Antolin",
     company_name: "business",
-    icon: figma,
+    icon: Antolin,
     iconBg: "#E6DEDD",
     date: "Jun 2023 - Out 2024",
     points: [
@@ -188,21 +190,21 @@ const experiences = [
 const testimonials = [
   {
     testimonial: 
-      "Sass (Syntactically Awesome Style Sheets) é uma extensão do CSS que permite escrever estilos de forma mais fácil e eficiente, com recursos como variáveis, aninhamento, mixins, herança e outras funcionalidades que não são encontradas no CSS puro.",
-    name: "Sass",
-    icon: sass,
+      "Desenvolvimento Web: HTML, CSS, JavaScript, criação de sites com foco em responsividade e usabilidade.  Front-End Básico: Interfaces amigáveis e otimizadas para melhorar a experiência do usuário, Experiência com interface em React.",
+     name: "Html e Css",
+    icon: web, 
   },
   {
     testimonial:
-      "Tailwind CSS é uma biblioteca de classes CSS pré-definidas que facilita a criação de interfaces de usuário responsivas e personalizáveis. Diferente de outras bibliotecas CSS, como o Bootstrap, que oferecem componentes de interface de usuário pré-fabricados, o Tailwind CSS oferece classes que podem ser aplicadas diretamente aos elementos HTML para estilizá-los.",
-    name: "Chris Brown",
-    icon: tailwind,
+      "UI/UX Design: Experiência com Figma para prototipagem e design de interfaces amigáveis e eficientes.",
+    name: "Figama",
+    icon: figma,
   },
   {
     testimonial:
-      "Three.js é uma biblioteca JavaScript de código aberto para criar e renderizar gráficos 3D interativos em navegadores web. A biblioteca é construída em cima do WebGL, que é uma API gráfica para navegadores que permite a criação de gráficos 3D acelerados por hardware.",
-    name: "Lisa Wang",
-    icon: threejs,
+      "Automação e Programação: Power Automate, soluções de automação para TI. Sistemas Operacionais: Windows, Linux, MacOS",
+    name: "TI",
+    icon: Antolin,
   },
 ];
 
@@ -327,6 +329,24 @@ const projects = [
     ],
     image: myst,
     source_code_link: "https://github.com/IsabellaaRamos/Website",
+  },
+  {
+    name: "Ancient Greece",
+    description:
+      "Pagina de livros Carregando...",
+    tags: [
+      {
+        name: "Html e Css",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "green-text-gradient",
+      },
+      
+    ],
+    image: Ancient,
+    // source_code_link: "https://github.com/IsabellaaRamos/Website",
   },
 ];
 

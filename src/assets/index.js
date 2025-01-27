@@ -32,6 +32,8 @@ import tripguide from "./tripguide.png";
 import portfolio from "./portfolio.png"
 import projeto from "./projeto.png"
 import myst from "./myst.png"
+import Ancient from "./Ancient.png"
+import Antolin from "./Antolin.png"
 
 export {
   logo,
@@ -65,4 +67,6 @@ export {
   portfolio,
   projeto,
   myst,
+  Ancient,
+  Antolin,
 };
