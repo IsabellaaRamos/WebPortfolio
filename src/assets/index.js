@@ -34,6 +34,7 @@ import projeto from "./projeto.png"
 import myst from "./myst.png"
 import Ancient from "./Ancient.png"
 import Antolin from "./Antolin.png"
+import ciber from "./ciber.png"
 
 export {
   logo,
@@ -69,4 +70,5 @@ export {
   myst,
   Ancient,
   Antolin,
+  ciber,
 };

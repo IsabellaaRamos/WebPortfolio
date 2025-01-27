@@ -29,6 +29,7 @@ import {
   myst,
   Ancient,
   Antolin,
+  ciber,
 } from "../assets";
 
 
@@ -56,10 +57,10 @@ const services = [
     title: "React Native Developer",
     icon: mobile,
   },
-  // {
-  //   title: "Backend Developer",
-  //   icon: backend,
-  // },
+  {
+    title: "Ciber Security",
+    icon: ciber,
+  },
   {
     title: "Front-end Developer",
     icon: creator,
