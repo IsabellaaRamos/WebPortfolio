@@ -25,6 +25,8 @@ import {
   threejs,
   sass,
   portfolio,
+  projeto,
+  myst,
 } from "../assets";
 
 
@@ -52,10 +54,10 @@ const services = [
     title: "React Native Developer",
     icon: mobile,
   },
-  {
-    title: "Backend Developer",
-    icon: backend,
-  },
+  // {
+  //   title: "Backend Developer",
+  //   icon: backend,
+  // },
   {
     title: "Front-end Developer",
     icon: creator,
@@ -75,26 +77,26 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
+  // {
+  //   name: "TypeScript",
+  //   icon: typescript,
+  // },
   {
     name: "React JS",
     icon: reactjs,
   },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
+  // {
+  //   name: "Tailwind CSS",
+  //   icon: tailwind,
+  // },
   {
     name: "Node JS",
     icon: nodejs,
   },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
+  // {
+  //   name: "MongoDB",
+  //   icon: mongodb,
+  // },
   {
     name: "Three JS",
     icon: threejs,
@@ -107,10 +109,10 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  {
-    name: "docker",
-    icon: docker,
-  },
+  // {
+  //   name: "docker",
+  //   icon: docker,
+  // },
   {
     name: "sass",
     icon: sass,
@@ -168,6 +170,17 @@ const experiences = [
       "Html e Css",
       "JavaScript",
       "Figma",
+    ],
+  },
+  {
+    title: "Antolin",
+    company_name: "business",
+    icon: figma,
+    iconBg: "#E6DEDD",
+    date: "Jun 2023 - Out 2024",
+    points: [
+      "Estagiária de Suporte de TI.",
+      "Suporte técnico aos usuários administrativos e de produção, com domínio em Windows, Linux eMacOS, além da criação de usuários e resolução de problemas em ambiente corporativo.",
     ],
   },
 ];
@@ -278,6 +291,42 @@ const projects = [
     ],
     image: portfolio,
     source_code_link: "https://isabellaramos.netlify.app/",
+  },
+  {
+    name: "Dev-links",
+    description:
+      "Esse projeto tem como objetivo mostrar o DevLinks. DevLinks é um agregador de links responsivo e com troca de tema que você pode usar como cartão de visitas nas suas redes sociais 📱",
+    tags: [
+      {
+        name: "Html e Css",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "green-text-gradient",
+      },
+      
+    ],
+    image: projeto,
+    source_code_link: "https://github.com/IsabellaaRamos/site-de-vendas?tab=readme-ov-file",
+  },
+  {
+    name: "Pagina de Vendas",
+    description:
+      "Pagina de Vendas",
+    tags: [
+      {
+        name: "Html e Css",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "green-text-gradient",
+      },
+      
+    ],
+    image: myst,
+    source_code_link: "https://github.com/IsabellaaRamos/Website",
   },
 ];
 
