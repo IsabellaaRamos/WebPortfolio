@@ -30,6 +30,7 @@ import {
   Ancient,
   Antolin,
   ciber,
+  site,
 } from "../assets";
 
 
@@ -347,6 +348,25 @@ const projects = [
       
     ],
     image: Ancient,
+    // source_code_link: "https://github.com/IsabellaaRamos/Website",
+  },
+
+  {
+    name: "Software",
+    description:
+      "Site Carregando...",
+    tags: [
+      {
+        name: "React e tailwind",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "green-text-gradient",
+      },
+      
+    ],
+    image: site,
     // source_code_link: "https://github.com/IsabellaaRamos/Website",
   },
 ];
