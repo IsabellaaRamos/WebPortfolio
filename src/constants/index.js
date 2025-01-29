@@ -315,7 +315,7 @@ const projects = [
     source_code_link: "https://github.com/IsabellaaRamos/site-de-vendas?tab=readme-ov-file",
   },
   {
-    name: "Pagina de Vendas",
+    name: "Página de Vendas",
     description:
       "Página de Vendas",
     tags: [
