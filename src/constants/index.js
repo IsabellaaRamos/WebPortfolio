@@ -317,7 +317,7 @@ const projects = [
   {
     name: "Pagina de Vendas",
     description:
-      "Pagina de Vendas",
+      "Página de Vendas",
     tags: [
       {
         name: "Html e Css",
