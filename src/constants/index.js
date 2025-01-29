@@ -249,7 +249,7 @@ const projects = [
   {
     name: "projeto-Clima",
     description:
-      " projeto consiste em uma página web simples criada usando as linguagens HTML e CSS. A página exibe o clima atual, o tempo e o dia da semana para uma localização específica. O layout é composto por uma imagem de fundo representando um céu com nuvens e uma seção principal no centro da página que exibe as informações sobre o clima e o tempo. Essa seção é dividida em duas colunas...",
+      " projeto consiste em uma página web simples criada usando as linguagens HTML e CSS. A página exibe o clima atual, o tempo e o dia da semana para uma localização específica.",
     tags: [
       {
         name: "Html",
@@ -335,7 +335,7 @@ const projects = [
   {
     name: "Ancient Greece",
     description:
-      "Pagina de livros Carregando...",
+      "Página de livros Carregando...Projeto desenhado no Figma.",
     tags: [
       {
         name: "Html e Css",
@@ -354,7 +354,7 @@ const projects = [
   {
     name: "Software",
     description:
-      "Site Carregando...",
+      "Site Carregando...Projeto desenhado no Figma.",
     tags: [
       {
         name: "React e tailwind",
