@@ -21,7 +21,7 @@
 }
 
 .black-gradient {
-  background: #000000; /* fallback for old browsers */
+  background: #70266d; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
     #434343,
@@ -250,7 +250,7 @@
 /* Tecnologies */
 .tecnologias_icones{
   /* width: 50px; */
-  background-color: #2f0b5e9c;
+  background-color: #5e4d7557;
   border-radius: 30%;
 }
 
